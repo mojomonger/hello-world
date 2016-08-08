@@ -1,2 +1,7 @@
 # hello-world
-say hi to the universe
+
+Hello all!
+
+i like to make nifty controllers for media devices...in fun ways!
+
+
